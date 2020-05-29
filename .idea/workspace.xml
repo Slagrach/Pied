@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c20a2ba-aaba-445c-abd4-c07aff4d1222" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../modules/php/PHP_7.2-x64" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1ZUMZgNg4P3oKlIJLsD7zUXzvGO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c20a2ba-aaba-445c-abd4-c07aff4d1222" name="Default Changelist" comment="" />
+      <created>1584889276724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584889276724</updated>
+      <workItem from="1584889277840" duration="639000" />
+      <workItem from="1584889944420" duration="5847000" />
+      <workItem from="1585332156546" duration="2905000" />
+      <workItem from="1585337853027" duration="1250000" />
+      <workItem from="1585486165688" duration="626000" />
+      <workItem from="1585488004785" duration="439000" />
+      <workItem from="1586612437393" duration="5880000" />
+      <workItem from="1586783526021" duration="1096000" />
+      <workItem from="1586806091425" duration="810000" />
+      <workItem from="1586853175752" duration="919000" />
+      <workItem from="1586960184911" duration="2327000" />
+      <workItem from="1590409167736" duration="1419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="727" y="231" key="FileChooserDialogImpl" timestamp="1585488439930">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="727" y="231" key="FileChooserDialogImpl/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1585488439930" />
+    <state x="450" y="122" key="SettingsEditor" timestamp="1585488135963">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="450" y="122" key="SettingsEditor/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1585488135963" />
+    <state x="548" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1585488037838">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="548" y="337" key="com.intellij.ide.util.TipDialog/0.0.1680.1020/-1680.0.1680.1020@0.0.1680.1020" timestamp="1585488037838" />
+    <state x="1989" y="220" key="run.anything.popup" timestamp="1586853391509">
+      <screen x="1680" y="0" width="1280" height="994" />
+    </state>
+    <state x="1989" y="220" key="run.anything.popup/0.0.1680.1020/1680.0.1280.994/2960.0.1680.1020@1680.0.1280.994" timestamp="1586853391509" />
+  </component>
+</project>

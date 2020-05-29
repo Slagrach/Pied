@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="utf-8" />
+<link rel="stylesheet" href="style.css">
+<meta name="viewport" content="width=device-width">
+
+<head>
+    <title>Pied</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header_inner">
+                <div class="header_logo">
+                    <a href="#"><img src="images/logo.png" alt="PiedPiper">
+                    </a>
+                </div>
+                <nav class="nav">
+                    <a href="#anchor">the problem</a>
+                    I
+                    <a href="#anchor_2">PiedPiperCoin</a>
+                    I
+                    <a href="#anchor_3">the team</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="intro">
+        <div class="container">
+            <p>PiperNet Is Here</p>
+        </div>
+    </div>
+
+    <div class="problem">
+        <a class="anchor" id="anchor"></a>
+        <div class="container">
+            <div class="article">
+                <div class="problem_title">
+                    <h1 class="title_problem">The Problem</h1>
+                </div>
+                <div class="problem_text">
+                    <p>Beneath the flashy homepages of your favorite sites lurk Hooli™ and other evil corporations out to hoard and sell your most personal data.</p><br>
+                    <p>What was built to be the ultimate platform for the free sharing of knowledge has turned into a money-hungry monster feasting on our privacy and freedom.</p><br>
+                    <p>But fear not, for Pied Piper has the answer! And it’s simple: An autonomous peer-to-peer network featuring distributed storage powered by universal compression, accelerated scheduling allocation, and end-to-end encryption.</p><br>
+                    <p>Put even simpler — <strong>it’s the internet, completely decentralized.</strong></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="intro_2">
+        <div class="container">
+            <p class="blockquote">
+                We’re in this together! All of our computers and phones join in a network to make the strongest supercomputer the world has ever seen.
+            </p>
+        </div>
+    </div>
+
+    <div class="pied">
+        <a class="anchor" id="anchor_2"></a>
+        <div class="container">
+            <div class="pied_piper">
+                <div class="title_pied">
+                    <h1 class="pied_title">Introducing PiedPiperCoin</h1>
+                </div>
+                <div class="logo_pied">
+                    <img class="ppc" src="images/PPC%20Logo.png" alt="PiedPiper">
+                    <p>Pied Piper's new internet is built <em>for users, by users</em>.<br>You supply the storage, compute, and networking resources that power our entire decentralized web.</p>
+                </div>
+                <div class="pied_text">
+                    <p>Now there's a way to give credit where credit is due. Compute credit, that is! The more you share your device resources, the more PiedPiperCoin you receive.</p><br>
+                    <p>Whether you're a developer with an app ready for market, or just an Average Joe with a smartphone you'll love all you can do with PiedPiperCoin.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="team">
+        <a class="anchor" id="anchor_3"></a>
+        <div class="container">
+            <div class="the_team">
+                <div class="title_team">
+                    <h1 class="team_title">The Team</h1>
+                </div>
+                <div class="team_card">
+                    <div class="row">
+                        <div class="card">
+                            <img class="card_img" src="images/image%20(1).png" alt="Richard Hendricks">
+                            <h3 class="card_title">Richard Hendricks</h3>
+                            <p class="card_text">Founder & CEO</p>
+                        </div>
+                        <div class="card">
+                            <img class="card_img" src="images/image%20(2).png" alt="Dinesh Chugtai">
+                            <h3 class="card_title">Dinesh Chugtai</h3>
+                            <p class="card_text">Senior Programmer</p>
+                        </div>
+                        <div class="card">
+                            <img class="card_img" src="images/image%20(3).png" alt="Bertram Gilfoyle">
+                            <h3 class="card_title">Bertram Gilfoyle</h3>
+                            <p class="card_text">Chief Systems Architect</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="card">
+                            <img class="card_img" src="images/image%20(4).png" alt="Jared Dunn">
+                            <h3 class="card_title">Jared Dunn</h3>
+                            <p class="card_text">Chief Operating Officer</p>
+                        </div>
+                        <div class="card">
+                            <img class="card_img" src="images/image%20(5).png" alt="Monica Hall">
+                            <h3 class="card_title">Monica Hall</h3>
+                            <p class="card_text">Chief Financial Officer</p>
+                        </div>
+                        <div class="card">
+                            <img class="card_img" src="images/image%20(6).png" alt="Nelson Bighetti">
+                            <h3 class="card_title">Nelson Bighetti</h3>
+                            <p class="card_text">Majority Investor</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <p>All other trademarks and copyrights are the property of their respective owners. Use of these names, trademarks and brands does not imply endorsement.</p>
+        </div>
+    </footer>
+    
+    <script type="text/javascript">
+$(function(){
+        $("a[href^='#']").click(function(){
+                var _href = $(this).attr("href");
+                $("html, body").animate({scrollTop: $(_href).offset().top+"px"});
+                return false;
+        });
+});
+</script>
+
+</body></html>
